@@ -8,7 +8,7 @@ Aprendi, a lo largo de mi carrera laboral, a tomar decisiones basadas en resulta
 
 Actualmente estoy estudiando Ciencia de Datos 🗂️ , creo en la evolución inminente a la Industria 4.0 💻 y la IA 🦾, me estoy preparando con un amplia visión estratégica y una mentalidad mucho mas abierta para lo que se avecina. 
 
-SQL 🗃️- Python 🐍 - PowerBI 📉 - Tableau 📈 son herramientas y lenguajes que he aprendido a utilizar tras tomar la decisión de prepararme y aventurarme en la búsqueda de mi lugar en la Nueva Industria 4.0 💻.
+SQL 🗃️- Python 🐍 - PowerBI 📉 - Tableau 📈 - MicroStrategy 📊, son herramientas y lenguajes que he aprendido a utilizar tras tomar la decisión de prepararme y aventurarme en la búsqueda de mi lugar en la Nueva Industria 4.0 💻.
 
 Soy un convencido que con los Skills que he adquirido en Gestión Temprana, Liderazgo de Equipos, Comunicación Interdisciplinaria y Efectiva, Autoliderazgo, PNL, Análisis de Insight y Manejo de Trabajo Bajo Presión, entre otros; más la adquisición de todas las herramientas 🛠️ anteriormente mencionadas, puedo ofrecer al mercado un producto competitivo ,empoderado, proactivo , resumiendo un Todo Terreno 🚜 para afrontar y resolver los desafíos 🚀 que se le crucen por el camino, siempre haciendo que las cosas sucedan.
 
